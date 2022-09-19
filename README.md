@@ -5,5 +5,6 @@
 ### Tested models:
 - A model with recurrent layer
 - A model without reccurent layer
+
 Used additionaly: Word2Vec, Language detection, Embeddings.
 
